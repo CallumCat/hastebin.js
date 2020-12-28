@@ -31,7 +31,7 @@ module.exports = class Hastebin {
      * Base URL for Hastebin client.
      * @type {string}
      */
-    this.baseURL = this.url ? this.url : 'https://hasteb.in';
+    this.baseURL = this.url ? this.url : 'https://hastebin.com';
   }
 
   /**
